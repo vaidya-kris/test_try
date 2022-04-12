@@ -9,5 +9,9 @@ header{
 
 header img{
 	border-radius: 150px;
-	
+	border: 10px solid #FE910E;
+}
+
+h1{
+	color: #7FFA45  ; 
 }
